@@ -1,0 +1,5 @@
+>>> Sass is watching for changes. Press Ctrl-C to stop.
+      error No such file or directory @ rb_sysopen - sass_options
+      error No such file or directory @ rb_sysopen - =
+      error No such file or directory @ rb_sysopen - {
+      error = (Line 4: Invalid property: "Backtrace:" (no value).)
